@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EjemploConCL</string>
+    <string name="welcome">Bienvenido a la playa más bonita</string>
+    <string name="quien_eres">¿Quien eres?</string>
+    <string name="title_activity_basic">BasicActivity</string>
+</resources>
